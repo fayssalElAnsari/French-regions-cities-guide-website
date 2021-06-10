@@ -1,0 +1,1 @@
+// this file was merged with login.js for simplicity

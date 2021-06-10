@@ -1,3 +1,7 @@
+
+![Demo](https://github.com/fayssalElAnsari/French-regions-cities-guide-website/blob/main/final_product.mp4)
+
+
 #Synthese : Communes De MEL
 
 **Fayssal El Ansari et Aya Lakehal**
@@ -6,6 +10,8 @@
 
 ### Objectif
 L'objectif de ce Projet est de pouvoir réaliser une page web dynamique en utilisant des services web .
+
+
 
 ### Détails
 Le sujet du projet contient 3 exercices avec et le 4eme a été facultatifs .

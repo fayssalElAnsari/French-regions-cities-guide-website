@@ -1,42 +1,44 @@
+# Presentation
+## Demonstration En Video
+...
 
-![Demo](https://github.com/fayssalElAnsari/French-regions-cities-guide-website/blob/main/final_product.mp4)
+## Description
 
+### Mode d'emploie
+*  pour S'inscrire il faut appuyer sur créez un compte ce qu'il va nous amener à la page registre.php .
 
-#Synthese : Communes De MEL
+* La sélection des commune pour faire une choix se fait a l'aide du botton Territoire, et dans ce cas on peut saisir la surface minimale de la commune, la population minimale. et a l'aide du boutton "Afficher la liste " on peut voir la liste des communes .
 
-**Fayssal El Ansari et Aya Lakehal**
+* Dans la liste des Communes on peut choisir une ville parmis les villes dans la liste, et on peut constater pour chaque proprieté sa valeur,la position et l'emplacement de la ville sur la carte.
 
-*janvier 2021*
+## les principes utilisés dans ce projet:
+* [x] Construction d'une version `static` d'une application web
+* [x] Conversion de l'application en version `dynamique` en utilisant JS seuelement (sans l'utilisation de Framework/bibliotheques) 
+* [x] Utilisation de HTML5
+* [x] Utilisation de CSS3 
+* [x] Fonctionalite d'inscription dans un site web en utilisant php
+* [x] Back end en php/cookies pour gerer la connection des utilisateurs
 
-### Objectif
-L'objectif de ce Projet est de pouvoir réaliser une page web dynamique en utilisant des services web .
+# Mise en route
+## installation
+* récupérer le dépôt avec:
+ ```bash
+ $  git clone https://github.com/fayssalElAnsari/French-regions-cities-guide-website.git 
+ ```
 
+* Veuillez excuter `index.php` pour pouvoir acceder aux différents services du site
 
+# Construit avec
+* <img src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+javascript-1324450741921820748.png" width="25">  Javascript  - A programming language that is one of the core technologies on the Web
+* <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width="25">  html  - The standard markup language for documents designed to be displayed in a web browser
+* <img src="https://cdn-icons-png.flaticon.com/512/29/29088.png" width="25">  css - A style sheet language used for describing the presentation of a document written in html
+* <img src="https://p0.storage.canalblog.com/07/66/388561/21364831.png" width="25">  PHP - A server side scripting language that is embedded in HTML
 
-### Détails
-Le sujet du projet contient 3 exercices avec et le 4eme a été facultatifs .
-Le 1er exercice:Ajouter des critères de sélection
-Le 2eme exercice: Base : création d’utilisateur
-Le 3eme exercice: Authentification
+# Auteur
+* Fayssal EL ANSARI
 
-## Ce qui a été traité:
-Le sujet a été traité dans son intégralité, sauf la partie facultatif .
-
-## Ce qui n'a pas été traité:
-N/A
-
-
-### Excution:
-
--- Il faut excuter index.php pour pouvoir acceder aux différents services du site, pour S'inscrire il faut appuyer sur créez un compte ce qu'il va nous amener à la page registre.php .
-
--- La sélection des commune pour faire une choix se fait a l'aide du botton Territoire, et dans ce cas on peut saisir la surface minimale de la commune, la population minimale. et a l'aide du boutton "Afficher la liste " on peut voir la liste des communes .
-
--- Dans la liste des Communes on peut choisir un ville parmis les villes dans la liste, et on peut constater pour chaque proprité sa valeur,la position et l'emplacement de la ville sur le MAP. 
-
-### Difficultés rencontrées
-
-On a pas eu le temps pour faire la partie facultatif . 
+# License
+* GNU General Public License v3.0
 
 
 

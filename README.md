@@ -42,13 +42,9 @@ Le projet a ete realiser en 3 etapes principales:
 * <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width="25">  html  - The standard markup language for documents designed to be displayed in a web browser
 * <img src="https://cdn-icons-png.flaticon.com/512/29/29088.png" width="25">  css - A style sheet language used for describing the presentation of a document written in html
 
-# Auteur
-* Fayssal EL ANSARI
+# Auteurs
+* Fayssal EL ANSARI 
+* Aya LAKEHAL 🎨
 
 # License
 * GNU General Public License v3.0
-
-
-
-
-
